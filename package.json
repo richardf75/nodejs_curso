@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_curso",
+  "version": "1.0.0",
+  "description": "priemera experienci con nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "curso"
+  ],
+  "author": "Richard",
+  "license": "ISC"
+}
